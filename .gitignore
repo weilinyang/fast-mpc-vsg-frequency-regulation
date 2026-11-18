@@ -1,0 +1,14 @@
+results/**
+!results/.gitkeep
+!results/supplemental/
+results/supplemental/**
+!results/supplemental/.gitkeep
+manuscript/**
+!manuscript/.gitkeep
+slprj/
+*.slxc
+*.slxc.autosave
+*.asv
+*.m~
+*.autosave
+.DS_Store

@@ -1,0 +1,23 @@
+{
+  "source_directory": "revision",
+  "source_sha256": {
+    "code/fangzheng.slx": "502bb1e57767dbd5e616740968e4258c4018d266c5d2670715e4a608411d03d6",
+    "code/supplemental_network.slx": "a33cef8945fe4b3739d837d59ad17ee839f2207046873567d52dff79227038c8",
+    "matlab/run_revision_experiments.m": "7b8659f6c0b9543599e860a0a44b4c9cfc7c4601baeee15602cc33285c84812a",
+    "matlab/prediction_matrices.m": "e605e582bb4d98b32541ccd9d1f0ca545a99e4640b4818536d7e40d689bff2aa",
+    "matlab/solve_sequence.m": "1c3a11c32eb59bf883732cc071da8c0cd056d5a4e40eaf63b66bb860535c7f0d",
+    "matlab/run_original_baseline.m": "560e9558837130341f2b4eb6b4d350aaaaa93da1bbbc4ad6a4c88b6c7001070e",
+    "matlab/export_saved_original.m": "4e0803ccff3790e93cc98ec334d9aeac260a8f591896c699367868f812a8d047",
+    "matlab/audit_original_model.m": "4f881971b3b1c5f259cad6dba9576d739c95f4530f69a5b6d01dfe18d47f291e",
+    "matlab/check_local_stability.m": "a3bf45f66f2d50f04bf25e2e46e5219659476e80ab25ce70ce5a1b2b04097a1a",
+    "matlab/plot_revision.m": "511e053b9f36286b7fb4fbf610734c2ac29301c9d0f99cd888fc3a8b79ce66d0",
+    "matlab/supplemental/run_supplemental_batch.m": "53d874e122fe0bad08bcd209459a178205f0fce50c90857919f0a47784a4abae",
+    "matlab/supplemental/run_supplemental_case.m": "c8a9e7230cef2d37a8ed74d600d1d351604dd6e338586d0be1c4c7ff5df5fbd6",
+    "matlab/supplemental/build_supplemental_network.m": "9179c3a284eb4e00878788a6af2fe09eaff455a4aba264108d33cd856c75e051",
+    "matlab/supplemental/supp_config.m": "63599ad50b5d18df0a0b78791b96e210aa1f7add4a6b786cc8adc5a36e8f3587",
+    "matlab/supplemental/supp_controller_step.m": "e2baa46b952f8e3ae0f0c2ff690368172f3d992a3eec90490193b3b7213a7478",
+    "matlab/supplemental/supp_initial_state.m": "b1c7ef2dba817caad4291c1437de1c2a76fa4ae9a2aa704659d9175f859ecaad",
+    "matlab/supplemental/supp_sfcn.m": "53fbf917e917a449598809195780aea4a5d811f8107769e611393c53d16fc6ab",
+    "matlab/supplemental/audit_supplemental_optimality.m": "12da2abbcd32a28d1a28fe7d865647e27259f7ab5e22d4c49e23c77dbc69445b"
+  }
+}
